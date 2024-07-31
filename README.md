@@ -2,9 +2,5 @@
 - 👋 Olá, eu sou @RafaelVogt
 - 👀 Tenho curiosidades em aprender páginas na web.
 - 🌱 Eu estou aprendendo a programar jogos no Scratch e em JavaScript
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![sctracth](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
 - 📫 Vocês podem entrar em contato comigo através do email r.vogt@escola.pr.gov.br
-
-<!---
-RafaelVogt/RafaelVogt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
